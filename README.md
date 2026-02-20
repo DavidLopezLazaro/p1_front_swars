@@ -1,3 +1,35 @@
+/*
+Una vez que ya hiciste git clone y entraste a la carpeta del proyecto con cd nombre-del-proyecto, en un proyecto hecho con Vite normalmente primero instalas las dependencias con npm install. Esto descargará todos los paquetes definidos en el archivo package.json. Después, para levantar el servidor de desarrollo, ejecutas npm run dev. La terminal te mostrará una URL local (por ejemplo, http://localhost:5173) donde podrás ver la aplicación corriendo.
+Durante el desarrollo de la práctica tuve algunas dificultades al integrar correctamente la API, especialmente al gestionar la paginación y los estados de carga y error. También me surgieron dudas al estructurar los componentes y pasar correctamente las props entre ellos. Estos problemas se solucionaron revisando la documentación de la API y reorganizando la lógica para separar responsabilidades entre App y los componentes.
+*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
